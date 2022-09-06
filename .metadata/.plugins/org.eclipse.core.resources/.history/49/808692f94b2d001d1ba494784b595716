@@ -1,0 +1,12 @@
+package com.microservico.estoquepreco.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class RabbitmqService {
+	
+	public void enviaMensagem(String nomeFila, Object mensagem) {
+		
+	}
+
+}

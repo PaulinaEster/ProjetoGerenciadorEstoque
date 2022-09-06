@@ -1,0 +1,10 @@
+package com.microservico.consumidorestoque.consumer;
+
+import org.springframework.amqp.rabbit.annotation.RabbitListener;
+import org.springframework.stereotype.Component;
+
+@Component
+public class PrecoConsumer {
+
+	@RabbitListener(queues =  )
+}

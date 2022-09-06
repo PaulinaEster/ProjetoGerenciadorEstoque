@@ -1,0 +1,11 @@
+package com.microservico.estoquepreco.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RequestMapping(value = "preco")
+@RestController
+public class PrecoController {
+	
+	
+}

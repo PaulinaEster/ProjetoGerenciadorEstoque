@@ -1,0 +1,10 @@
+const amqp = require("amqplib");
+
+const fila = 'PRECO';
+
+amqp.conect({
+	host: 'localhost',
+	port: 5672,
+	username: 'admin',
+	password: 123456
+})

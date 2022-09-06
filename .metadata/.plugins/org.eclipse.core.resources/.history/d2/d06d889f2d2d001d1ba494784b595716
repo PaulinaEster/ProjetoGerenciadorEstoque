@@ -1,0 +1,14 @@
+package com.microservico.estoquepreco.connections;
+
+import org.springframework.stereotype.Component;
+
+import com.rabbitmq.client.AMQP.Queue;
+
+@Component
+public class RabbitMQConnection {
+
+	private Queue fila(String nomeFila) {
+		return new Queue(nomeFila, true, false, false);
+	}
+	
+}

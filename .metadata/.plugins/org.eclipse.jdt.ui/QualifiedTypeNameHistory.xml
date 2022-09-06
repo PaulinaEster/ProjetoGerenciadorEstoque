@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSessionBindingEvent"/>
+    <fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Queue"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.Binding.DestinationType"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.Queue"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.DirectExchange"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.Binding"/>
+    <fullyQualifiedTypeName name="com.microservico.estoquepreco.connections.RabbitMQConnection"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.AmqpAdmin"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="com.rabbitmq.client.RpcClient.Response"/>
+    <fullyQualifiedTypeName name="com.microservico.estoquepreco.dto.EstoqueDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.microservico.estoquepreco.dto.PrecoDTO"/>
+    <fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Basic.Return"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.rabbit.core.RabbitTemplate"/>
+    <fullyQualifiedTypeName name="com.microservico.estoquepreco.service.RabbitmqService"/>
+    <fullyQualifiedTypeName name="com.microservico.estoquepreco.constantes.RabbitMQConstantes"/>
+    <fullyQualifiedTypeName name="dto.EstoqueDTO"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.rabbit.annotation.RabbitListener"/>
+    <fullyQualifiedTypeName name="constantes.RabbitMQConstantes"/>
+    <fullyQualifiedTypeName name="dto.PrecoDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+package com.microservico.estoquepreco.connections;
+
+@Component
+public class RabbitMQConnection {
+
+}
